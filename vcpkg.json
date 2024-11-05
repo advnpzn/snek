@@ -1,0 +1,6 @@
+{
+  "dependencies" : [ {
+    "name" : "raylib",
+    "version>=" : "5.0#2"
+  } ]
+}
